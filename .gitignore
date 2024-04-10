@@ -6,3 +6,8 @@ debug
 foo.*
 *.log
 data
+
+# Ignore these files which are auto-generated during LazyVim works
+# -- Louis 2024/0328
+lazy-lock.json
+lazyvim.json
